@@ -18,7 +18,7 @@ Unlike Stage 1 (which only used alerts), this version **displays results directl
 ## 📸 Screenshot Preview
 Here’s how the UI looks:  
 
-![Rock Paper Scissors Stage 2 Preview](screenshot)  
+![Rock Paper Scissors Stage 2 Preview](screenshot.png)  
 
 ---
 
